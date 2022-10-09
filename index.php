@@ -1,5 +1,5 @@
 <?php
-$reg_dom = '#\images/\IMG_\d*\.(img|png|jpg)#';
+$reg_dom = '#images/IMG_\d*\.(img|png|jpg)#';
 $dom = "fgfdg12.org";
 $arr = ["images/IMG_444.jpg", "dd/net", "dsf.fff", "sfsadad"];
 for ($i = 0; $i < count($arr); $i++) {
